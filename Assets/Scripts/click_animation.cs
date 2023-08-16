@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ClickAnimation : MonoBehaviour
+public class click_animation : MonoBehaviour
 {
     public Animator animator;
 
